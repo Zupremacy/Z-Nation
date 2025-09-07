@@ -3,6 +3,7 @@ Unity Mono Helper for Cheat Engine | By Zupremacy
 Params : Setup the values after your investigation of Mono Instances
 Hotkey : Default hotkey is F5 you can change is or add multiple executions with different Hotkeys
 
+------------------------------------------------------------------------
 local assemblyName = "Assembly-CSharp"
 
 local classNamespace = ""
@@ -19,6 +20,7 @@ local methodReturnType = "System.Void"
 
 local methodParamTypes = { "System.Int32" }
 
+------------------------------------------------------------------------
 
 I hope this will make it easy for you to hack your favorites Unity Games.
 
